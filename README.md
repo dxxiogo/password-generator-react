@@ -5,7 +5,7 @@ de funções Hooks próprias e estilização usando css module.
 
 Tecnologias: React, Css e Vite
 
-Deploy: [clique aqui!](password-generator-react-ochre.vercel.app)
+Deploy: [clique aqui!](https://password-generator-react-ochre.vercel.app/)
 
 
 
